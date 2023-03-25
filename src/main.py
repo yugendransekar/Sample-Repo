@@ -1,4 +1,4 @@
 def hello():
-    return "Hello"
+    return 53 + 41
 
 print(hello())
