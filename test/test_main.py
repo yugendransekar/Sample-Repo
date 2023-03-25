@@ -1,4 +1,3 @@
-def tets():
+def test_tets():
     print("test")
 
-tets()
